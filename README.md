@@ -1,3 +1,4 @@
+# Mabinogi Excel Calculators
 A comprehensive Excel-based toolkit I built during my Mabinogi (Nexon) days to help players make smarter gear, skill, and stat decisions!
 You simply plug in your character's stats and other values — and it instantly shows you "which option is better", DPS comparisons, damage breakdowns, and more.
 
